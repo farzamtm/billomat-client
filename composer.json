@@ -1,5 +1,5 @@
 {
-    "name": "vrok/billomat-client",
+    "name": "farzamtm/billomat-client",
     "type": "library",
     "license": "MIT",
     "description": "PHP library for interacting with the Billomat REST API",
